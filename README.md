@@ -1,5 +1,5 @@
-# [How to Animate Your React App]
-## Dev: [Daniel Infante]
+# [How to Animate Your React App][https://infantito.github.io/animating-in-react/]
+## Dev: [Daniel Infante][https://github.com/infantito]
 
 
 
