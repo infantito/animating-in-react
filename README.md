@@ -1,7 +1,4 @@
-# [How to Animate Your React App][https://infantito.github.io/animating-in-react/]
-## Dev: [Daniel Infante][https://github.com/infantito]
-
-
+# How to Animate Your React App
 
 If you want to add some life and engagement to your React app, animation is a great way to do it. 
 
